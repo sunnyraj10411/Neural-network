@@ -1,0 +1,3 @@
+                inhibition(v_inhibition_neuron,m_confidence);
+                stimulation(v_stimulation_neuron,m_confidence);
+
